@@ -1,0 +1,20 @@
+[
+    {
+        "id": "phoneme1",
+        "label": "/ə/",
+        "file": "schwa-what.mp3",
+        "sampleword": "what"
+    },
+    {
+        "id": "phoneme2",
+        "label": "/ă/",
+        "file": "a-cake.mp3",
+        "sampleword": "apple"
+    },
+    {
+        "id": "phoneme3",
+        "label": "/ā/",
+        "file": "a-apple.mp3", 
+        "sampleword": "cake"
+    }
+]

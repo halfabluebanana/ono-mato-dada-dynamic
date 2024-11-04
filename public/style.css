@@ -1,0 +1,36 @@
+/* Basic styling for the phoneme slider container */
+#sliderContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+/* Style each phoneme's wrapper */
+.slider-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+/* Style for labels and sample word */
+.phoneme-label {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.sample-word {
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 5px;
+}
+
+input[type="range"] {
+    width: 100%;
+}
